@@ -24,5 +24,5 @@ This document is not a legal contract, and it is advisable to consult with legal
 
 #### References
 
-1. [Is Google Dumb?](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/83473010838008979452047554662756202009949420934210702451763073413848460427265/) (April 8, 2021)
-2. [ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022](https://en.wikipedia.org/wiki/ChatGPT)
+1. [Is Google Dumb?](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/83473010838008979452047554662756202009949420934210702451763073413848460427265/) (Minted on April 8, 2021)
+2. [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) (A chatbot developed by OpenAI and launched on November 30, 2022)
